@@ -1,3 +1,7 @@
+[![make.fun - news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/iryckcorp2-commits/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/iryckcorp2-commits/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+
 # The World Today — 25 November 2026
 
 A newspaper front page for Wednesday, 25 November 2026, drawn entirely in
